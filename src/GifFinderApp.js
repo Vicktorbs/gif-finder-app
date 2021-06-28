@@ -4,7 +4,7 @@ import { GifGrid } from './components/GifGrid';
 
 const GifFinderApp = () => {
 
-    const [categories, setCategories] = useState(['Hinata'])
+    const [categories, setCategories] = useState([''])
     
     return (
         <>
