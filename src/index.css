@@ -11,15 +11,22 @@ input {
 }
 .card {
   align-content: center;
-  border: 1px solid gray;
+  /* border: 1px solid gray; */
   border-radius: 6px;
-  margin-bottom: 10px;
-  margin-right: 10px;
+  box-shadow: 1px 1px 8px black;
+  margin-bottom: 16px;
+  margin-right: 16px;
+  max-width: fit-content;
   overflow: hidden;
+}
+.card:hover {
+  box-shadow: 3px 3px 8px black;
+  transform: scale(1.05);
 }
 .card p {
   padding: 5px;
   text-align: center;
+  max-width: fit-content;
 }
 .card img {
   max-height: 170px;
