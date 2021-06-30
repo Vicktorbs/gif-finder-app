@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test on file <GifGridItem /> should show GifGridItem correctly 1`] = `
+<div
+  className="card animate__animated animate__fadeIn"
+>
+  <img
+    alt="i just love her naruto shippuden GIF"
+    src="https://media1.giphy.com/media/qKr1nIRfIQPYI/giphy.gif?cid=c4f74b61bdxuxtgjry3au947bwjp4fc6uncmdmfvt0b48g7v&rid=giphy.gif&ct=g"
+  />
+  <p>
+    i just love her naruto shippuden GIF
+  </p>
+</div>
+`;

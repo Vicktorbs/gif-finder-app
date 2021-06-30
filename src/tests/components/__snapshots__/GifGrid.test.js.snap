@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test on File GifGrid should show <GifGrid /> correctly 1`] = `
+<Fragment>
+  <h3
+    className="animate__animated animate__fadeIn"
+  >
+    hinata
+  </h3>
+  <p>
+    Loading...
+  </p>
+  <div
+    className="card-grid"
+  />
+</Fragment>
+`;
+
+exports[`Test on File GifGrid should show items when useFetchGifs loads images 1`] = `
+<Fragment>
+  <h3
+    className="animate__animated animate__fadeIn"
+  >
+    hinata
+  </h3>
+  <div
+    className="card-grid"
+  >
+    <GifGridItem
+      id="qKr1nIRfIQPYI"
+      key="qKr1nIRfIQPYI"
+      title="i just love her naruto shippuden GIF"
+      url="https://media1.giphy.com/media/qKr1nIRfIQPYI/giphy.gif?cid=c4f74b61bdxuxtgjry3au947bwjp4fc6uncmdmfvt0b48g7v&rid=giphy.gif&ct=g"
+    />
+  </div>
+</Fragment>
+`;
