@@ -4,19 +4,21 @@
 body {
   padding: 60px;
 }
+h2 {
+  font-size: 2rem;
+}
 input {
   color: gray;
   font-size: 1.2rem;
   width: 100%;
+  margin: 1rem;
 }
 .card {
   align-content: center;
-  /* border: 1px solid gray; */
   border-radius: 6px;
   box-shadow: 1px 1px 8px black;
   margin-bottom: 16px;
   margin-right: 16px;
-  max-width: fit-content;
   overflow: hidden;
 }
 .card:hover {
@@ -30,9 +32,13 @@ input {
 }
 .card img {
   max-height: 170px;
+  width: 100%;
+  /* object-fit: cover; */
 }
 .card-grid {
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  grid-template-rows: 1fr;
+  /* flex-direction: row;
+  flex-wrap: wrap; */
 }
