@@ -7,6 +7,7 @@ export const GifGrid = ({ category }) => {
     // key: sgatASouL6QA0OloiTwxS5gAVHGXDGET
     // const [images, setImages] = useState([])
     const { data:images, loading } = useFetchGifs(category);
+    console.log(images);
 
     return (
         <>
