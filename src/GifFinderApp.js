@@ -8,17 +8,17 @@ const GifFinderApp = ({ defaultCategories = [] }) => {
     
     return (
         <>
-            <h2>GifFinderApp</h2>
+            <h2>GiftFinderApp</h2>
             <AddCategory setCategories={ setCategories } />
             <hr/>
-            <ol>
+            <ul>
                 { categories.map(category => 
-                    <GifGrid 
-                        key={ category }
-                        category={ category }
-                    />
+                        <GifGrid 
+                            key={ category }
+                            category={ category }
+                        />
                 ) }
-            </ol>
+            </ul>
         </>
     )
 }
