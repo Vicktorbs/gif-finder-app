@@ -23,6 +23,11 @@ input {
   font-size: 1.2rem;
   font-weight: bold;
 }
+.empty-area {
+  text-align: center;
+  margin-top: 25vh;
+  font-size: 2rem;
+}
 .cards-container {
   background-color: #91b454;
   padding-top: .8rem;
