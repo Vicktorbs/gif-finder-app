@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/gif-finder-app/static/css/main.cda8bbe4.chunk.css",
-    "main.js": "/gif-finder-app/static/js/main.507a2e91.chunk.js",
-    "main.js.map": "/gif-finder-app/static/js/main.507a2e91.chunk.js.map",
+    "main.css": "/gif-finder-app/static/css/main.40d33ec3.chunk.css",
+    "main.js": "/gif-finder-app/static/js/main.381323cb.chunk.js",
+    "main.js.map": "/gif-finder-app/static/js/main.381323cb.chunk.js.map",
     "runtime-main.js": "/gif-finder-app/static/js/runtime-main.8a28d9c6.js",
     "runtime-main.js.map": "/gif-finder-app/static/js/runtime-main.8a28d9c6.js.map",
     "static/js/2.a2e0a596.chunk.js": "/gif-finder-app/static/js/2.a2e0a596.chunk.js",
     "static/js/2.a2e0a596.chunk.js.map": "/gif-finder-app/static/js/2.a2e0a596.chunk.js.map",
     "index.html": "/gif-finder-app/index.html",
-    "static/css/main.cda8bbe4.chunk.css.map": "/gif-finder-app/static/css/main.cda8bbe4.chunk.css.map",
+    "static/css/main.40d33ec3.chunk.css.map": "/gif-finder-app/static/css/main.40d33ec3.chunk.css.map",
     "static/js/2.a2e0a596.chunk.js.LICENSE.txt": "/gif-finder-app/static/js/2.a2e0a596.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.8a28d9c6.js",
     "static/js/2.a2e0a596.chunk.js",
-    "static/css/main.cda8bbe4.chunk.css",
-    "static/js/main.507a2e91.chunk.js"
+    "static/css/main.40d33ec3.chunk.css",
+    "static/js/main.381323cb.chunk.js"
   ]
 }
