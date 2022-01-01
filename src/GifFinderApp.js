@@ -5,7 +5,6 @@ import { GifGrid } from './components/GifGrid';
 const GifFinderApp = ({ defaultCategories = [] }) => {
 
     const [categories, setCategories] = useState(defaultCategories)
-    console.log(categories);
     
     return (
         <>
